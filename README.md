@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Mohan S - Java Software Engineer
-- 👀 I’m interested in talking to computers who knows JVM
+- 👋 Hi, I’m Mohan S - Java Software Engineer.
+- 👀 I’m interested in talking to computers who knows JVM.
 - 🌱 I’m currently working on MNC and building niche applications during freetime.
 - 💞️ Ill commit code rarely, bcz my applications are sleeping locally. 
+- 💞️ Sometimes its a toughnut to work as private contractor and its good eventually.
 - 📫 Reach me through: https://www.linkedin.com/in/mohansmsi/
 
 <!---
