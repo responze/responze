@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan S - Java Software Engineer.
 - 👀 I’m interested in talking to computers who knows JVM.
-- 🌱 I’m currently working at Mahathi and building niche applications during freetime.
+- 🌱 I’m currently working at Mahathi and building niche applications.
 - 💞️ Ill commit code rarely, bcz my applications are sleeping locally. 
 - 📫 Reach me through: https://www.linkedin.com/in/mohansmsi/
 
